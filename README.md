@@ -1,2 +1,2 @@
 # MyProjects
-### Compilation of all academic projects in college
+##### Compilation of all academic projects in college
